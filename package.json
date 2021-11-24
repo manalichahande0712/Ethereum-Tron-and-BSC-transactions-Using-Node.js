@@ -1,0 +1,27 @@
+{
+  "name": "ethereum-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon run index.js"
+  },
+  "author": "Manali Chahande",
+  "license": "ISC",
+  "dependencies": {
+    "@ethereumjs/tx": "^3.3.2",
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "ethereumjs-common": "^1.5.2",
+    "ethereumjs-tx": "^2.1.2",
+    "express": "^4.17.1",
+    "json-rpc-2.0": "^0.2.19",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.1.4",
+    "mongoose": "^6.0.12",
+    "nodemailer": "^6.7.0",
+    "tronweb": "^4.0.0",
+    "web3": "^1.6.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
